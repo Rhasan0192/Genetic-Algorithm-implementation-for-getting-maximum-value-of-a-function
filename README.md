@@ -7,7 +7,7 @@ Solution Approach:
 
 
 f(x1, x2) = 21.5 + x1 * sin(4πx1) + x2 * sin(20πx2)
--12.0≤x1 ≤12.0and-6.0≤x2≤6.0
+where -12.0≤x1 ≤12.0and-6.0≤x2≤6.0
 
 
 
